@@ -7,8 +7,12 @@ This repository contains all the relevant code and data for three different Huma
 ## 1. HAR using smartphones dataset: 
 This dataset was built from the recordings of study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone equipped with embedded inertial sensors.
 
+The dataset can be downloaded from https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
 ## 2. WISDM_ar_v1.1 dataset: 
 This dataset contains six different activities (Walking, Jogging, Upstairs, Downstairs, Sitting, and Standing) recorded by 36 users with a smartphone in their pocket.
+The dataset can be downloaded from https://www.cis.fordham.edu/wisdm/
 
 ## 3. PAMAP2 Physical Activity Monitoring dataset: 
 This dataset includes data of 18 different physical activities, performed by 9 subjects wearing 3 inertial measurement units and a heart rate monitor.
+The dataset can be downloaded from https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring
